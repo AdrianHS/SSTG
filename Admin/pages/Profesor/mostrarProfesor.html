@@ -13,6 +13,7 @@
     <!-- End plugin css for this page -->
     <!-- inject:css -->
     <link rel="stylesheet" href="../../css/style.css">
+    <link rel="stylesheet" href="../../css/estilo.css">
     <!-- endinject -->
     <link rel="shortcut icon" href="../../images/favicon.png" />
 </head>
@@ -104,7 +105,7 @@
                                         <div class="mdc-layout-grid__inner">
                                             <span></span>
                                             <div class="row mdc-layout-grid__cell mdc-layout-grid__cell--span-12-desktop" >
-                                                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12" ng-repeat="profesores in mostrarProfesor">
+                                                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12" ng-repeat="profesores in mostrarProfesores">
                                                     <div ng-init="idvalue=profesor.cedula" ng-click="selectedId(idvalue)">
                                                         <div class="info-box  hover-expand-effect">
                                                             <div class="content">
@@ -120,12 +121,15 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <button id="enter-exit-add" class="mdc-fab material-icons mdc-ripple-upgraded" style="position: fixed; bottom:2%; right: 2%" href="#/Profesor/crearProfesor" aria-label="Add">
-                                                <span class="mdc-fab__icon">
-                                                  add
-                                                </span>
+                                            <button id="lockedBtn" type="button" class="mdc-fab material-icons bg-green agregarbtn">
+                                                <a class="letrasBtn" href="crearProfesor.html.html"><i class="material-icons">add</i></a>
                                             </button>
-                                            <!--perm_identity-->
+                                            <button type="button" class="mdc-fab material-icons mdc-ripple-upgraded bg-blue editarBtn">
+                                                <a class="letrasBtn" href="crearProfesor.html"><i class="material-icons">mode_edit</i></a>
+                                            </button>
+                                            <button type="button" class="mdc-fab material-icons mdc-ripple-upgraded bg-red btn-circle-lg eliminarBtn">
+                                                <a class="letrasBtn" href="crearProfesor.html"><i class="material-icons">delete</i></a>
+                                            </button>
                                         </div>
                                     </section>
                                 </div>

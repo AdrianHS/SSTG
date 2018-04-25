@@ -2,105 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce6a3537-0014-472a-9986-c9e4608e8f07" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Admin/css/estilo.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Admin/js/estudianteCTRL.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Admin/js/profesorCTRL.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Admin/pages/Estudiante/mostarEstudiante.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Admin/pages/Profesor/crearProfesor.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Admin/pages/Profesor/mostrarProfesor.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Admin/services.js" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/maps/style.css.map" afterPath="$PROJECT_DIR$/Admin/css/maps/style.css.map" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/Admin/css/style.css" />
-      <change beforePath="$PROJECT_DIR$/fonts/material-icons/MaterialIcons-Regular.eot" afterPath="$PROJECT_DIR$/Admin/fonts/material-icons/MaterialIcons-Regular.eot" />
-      <change beforePath="$PROJECT_DIR$/fonts/material-icons/MaterialIcons-Regular.ttf" afterPath="$PROJECT_DIR$/Admin/fonts/material-icons/MaterialIcons-Regular.ttf" />
-      <change beforePath="$PROJECT_DIR$/fonts/material-icons/MaterialIcons-Regular.woff" afterPath="$PROJECT_DIR$/Admin/fonts/material-icons/MaterialIcons-Regular.woff" />
-      <change beforePath="$PROJECT_DIR$/fonts/material-icons/MaterialIcons-Regular.woff2" afterPath="$PROJECT_DIR$/Admin/fonts/material-icons/MaterialIcons-Regular.woff2" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.eot" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Bold.eot" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.svg" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Bold.svg" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.ttf" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Bold.ttf" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.woff" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Bold.woff" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.woff2" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Bold.woff2" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.eot" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Light.eot" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.svg" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Light.svg" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.ttf" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Light.ttf" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.woff" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Light.woff" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.woff2" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Light.woff2" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.eot" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Medium.eot" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.svg" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Medium.svg" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.ttf" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Medium.ttf" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.woff" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Medium.woff" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.woff2" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Medium.woff2" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.eot" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Regular.eot" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.svg" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Regular.svg" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.ttf" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Regular.ttf" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.woff" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Regular.woff" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.woff2" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Regular.woff2" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.eot" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Thin.eot" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.svg" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Thin.svg" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.ttf" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Thin.ttf" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.woff" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Thin.woff" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.woff2" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Thin.woff2" />
-      <change beforePath="$PROJECT_DIR$/images/cover/1-1.jpg" afterPath="$PROJECT_DIR$/Admin/images/cover/1-1.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/cover/16-9.jpg" afterPath="$PROJECT_DIR$/Admin/images/cover/16-9.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/cover/Login_bg.jpg" afterPath="$PROJECT_DIR$/Admin/images/cover/Login_bg.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/cover/Login_bg2.jpg" afterPath="$PROJECT_DIR$/Admin/images/cover/Login_bg2.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/cover/Material Admin.html" afterPath="$PROJECT_DIR$/Admin/images/cover/Material Admin.html" />
-      <change beforePath="$PROJECT_DIR$/images/cover/bg_profile.jpg" afterPath="$PROJECT_DIR$/Admin/images/cover/bg_profile.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/faces/face1.jpg" afterPath="$PROJECT_DIR$/Admin/images/faces/face1.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/faces/face10.jpg" afterPath="$PROJECT_DIR$/Admin/images/faces/face10.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/faces/face11.jpg" afterPath="$PROJECT_DIR$/Admin/images/faces/face11.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/faces/face2.jpg" afterPath="$PROJECT_DIR$/Admin/images/faces/face2.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/faces/face3.jpg" afterPath="$PROJECT_DIR$/Admin/images/faces/face3.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/faces/face4.jpg" afterPath="$PROJECT_DIR$/Admin/images/faces/face4.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/faces/face5.jpg" afterPath="$PROJECT_DIR$/Admin/images/faces/face5.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/faces/face6.jpg" afterPath="$PROJECT_DIR$/Admin/images/faces/face6.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/faces/face7.jpg" afterPath="$PROJECT_DIR$/Admin/images/faces/face7.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/faces/face8.jpg" afterPath="$PROJECT_DIR$/Admin/images/faces/face8.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/faces/face9.jpg" afterPath="$PROJECT_DIR$/Admin/images/faces/face9.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/logo.svg" afterPath="$PROJECT_DIR$/Admin/images/logo.svg" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/js/chart.js" afterPath="$PROJECT_DIR$/Admin/js/chart.js" />
-      <change beforePath="$PROJECT_DIR$/js/dashboard.js" afterPath="$PROJECT_DIR$/Admin/js/dashboard.js" />
-      <change beforePath="$PROJECT_DIR$/js/material.js" afterPath="$PROJECT_DIR$/Admin/js/material.js" />
-      <change beforePath="$PROJECT_DIR$/js/misc.js" afterPath="$PROJECT_DIR$/Admin/js/misc.js" />
-      <change beforePath="$PROJECT_DIR$/pages/Estudiante/estudiante.html" afterPath="$PROJECT_DIR$/Admin/pages/Estudiante/crearEstudiante.html" />
-      <change beforePath="$PROJECT_DIR$/pages/charts/chartjs.html" afterPath="$PROJECT_DIR$/Admin/pages/charts/chartjs.html" />
-      <change beforePath="$PROJECT_DIR$/pages/forms/basic-forms.html" afterPath="$PROJECT_DIR$/Admin/pages/forms/basic-forms.html" />
-      <change beforePath="$PROJECT_DIR$/pages/samples/403.html" afterPath="$PROJECT_DIR$/Admin/pages/samples/403.html" />
-      <change beforePath="$PROJECT_DIR$/pages/samples/404.html" afterPath="$PROJECT_DIR$/Admin/pages/samples/404.html" />
-      <change beforePath="$PROJECT_DIR$/pages/samples/500.html" afterPath="$PROJECT_DIR$/Admin/pages/samples/500.html" />
-      <change beforePath="$PROJECT_DIR$/pages/samples/505.html" afterPath="$PROJECT_DIR$/Admin/pages/samples/505.html" />
-      <change beforePath="$PROJECT_DIR$/pages/samples/blank-page.html" afterPath="$PROJECT_DIR$/Admin/pages/samples/blank-page.html" />
-      <change beforePath="$PROJECT_DIR$/pages/samples/login.html" afterPath="$PROJECT_DIR$/Admin/pages/samples/login.html" />
-      <change beforePath="$PROJECT_DIR$/pages/samples/register.html" afterPath="$PROJECT_DIR$/Admin/pages/samples/register.html" />
-      <change beforePath="$PROJECT_DIR$/pages/ui-features/buttons.html" afterPath="$PROJECT_DIR$/Admin/pages/ui-features/buttons.html" />
-      <change beforePath="$PROJECT_DIR$/pages/ui-features/tables.html" afterPath="$PROJECT_DIR$/Admin/pages/ui-features/tables.html" />
-      <change beforePath="$PROJECT_DIR$/pages/ui-features/typography.html" afterPath="$PROJECT_DIR$/Admin/pages/ui-features/typography.html" />
-      <change beforePath="$PROJECT_DIR$/partials/_footer.html" afterPath="$PROJECT_DIR$/Admin/partials/_footer.html" />
-      <change beforePath="$PROJECT_DIR$/partials/_navbar.html" afterPath="$PROJECT_DIR$/Admin/partials/_navbar.html" />
-      <change beforePath="$PROJECT_DIR$/partials/_sidebar.html" afterPath="$PROJECT_DIR$/Admin/partials/_sidebar.html" />
-      <change beforePath="$PROJECT_DIR$/scss/_dashboard.scss" afterPath="$PROJECT_DIR$/Admin/scss/_dashboard.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/_demo.scss" afterPath="$PROJECT_DIR$/Admin/scss/_demo.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/_fonts.scss" afterPath="$PROJECT_DIR$/Admin/scss/_fonts.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/_footer.scss" afterPath="$PROJECT_DIR$/Admin/scss/_footer.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/_navbar.scss" afterPath="$PROJECT_DIR$/Admin/scss/_navbar.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/_sidebar.scss" afterPath="$PROJECT_DIR$/Admin/scss/_sidebar.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/_template.scss" afterPath="$PROJECT_DIR$/Admin/scss/_template.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/_typography.scss" afterPath="$PROJECT_DIR$/Admin/scss/_typography.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/_utilities.scss" afterPath="$PROJECT_DIR$/Admin/scss/_utilities.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/_variables.scss" afterPath="$PROJECT_DIR$/Admin/scss/_variables.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_buttons.scss" afterPath="$PROJECT_DIR$/Admin/scss/components/_buttons.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_cards.scss" afterPath="$PROJECT_DIR$/Admin/scss/components/_cards.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_checkbox.scss" afterPath="$PROJECT_DIR$/Admin/scss/components/_checkbox.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_dropdown.scss" afterPath="$PROJECT_DIR$/Admin/scss/components/_dropdown.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_radio.scss" afterPath="$PROJECT_DIR$/Admin/scss/components/_radio.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_table.scss" afterPath="$PROJECT_DIR$/Admin/scss/components/_table.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/components/plugin-overides/_chartjs.scss" afterPath="$PROJECT_DIR$/Admin/scss/components/plugin-overides/_chartjs.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/sample-screens/_auth.scss" afterPath="$PROJECT_DIR$/Admin/scss/sample-screens/_auth.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/sample-screens/_error-page.scss" afterPath="$PROJECT_DIR$/Admin/scss/sample-screens/_error-page.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/style.scss" afterPath="$PROJECT_DIR$/Admin/scss/style.scss" />
+      <change beforePath="$PROJECT_DIR$/Admin/js/profesorCTRL.js" afterPath="$PROJECT_DIR$/Admin/js/profesorCTRL.js" />
+      <change beforePath="$PROJECT_DIR$/Admin/pages/Estudiante/mostarEstudiante.html" afterPath="$PROJECT_DIR$/Admin/pages/Estudiante/mostarEstudiante.html" />
+      <change beforePath="$PROJECT_DIR$/Admin/pages/Profesor/mostrarProfesor.html" afterPath="$PROJECT_DIR$/Admin/pages/Profesor/mostrarProfesor.html" />
+      <change beforePath="$PROJECT_DIR$/Admin/services.js" afterPath="$PROJECT_DIR$/Admin/services.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -117,18 +22,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="987">
+            <state relative-caret-position="798">
               <caret line="47" column="18" lean-forward="true" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="crearEstudiante.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Admin/pages/Estudiante/crearEstudiante.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="14" column="54" lean-forward="true" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -137,53 +32,49 @@
       <file leaf-file-name="estudianteCTRL.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Admin/js/estudianteCTRL.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="60" lean-forward="false" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mostarEstudiante.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="profesorCTRL.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Admin/js/profesorCTRL.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="services.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Admin/services.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="135" column="23" lean-forward="true" selection-start-line="135" selection-start-column="23" selection-end-line="135" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mostarEstudiante.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Admin/pages/Estudiante/mostarEstudiante.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="134" column="149" lean-forward="false" selection-start-line="134" selection-start-column="149" selection-end-line="134" selection-end-column="149" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#div#0;n#section#1;n#div#0;n#section#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Admin/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338268">
-              <caret line="16108" column="6" lean-forward="true" selection-start-line="16108" selection-start-column="6" selection-end-line="16108" selection-end-column="6" />
+            <state relative-caret-position="315">
+              <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="55" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="estilo.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Admin/css/estilo.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mostrarProfesor.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="mostrarProfesor.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Admin/pages/Profesor/mostrarProfesor.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1155">
-              <caret line="47" column="28" lean-forward="true" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
-              <folding>
-                <element signature="n#style#0;n#button#0;n#div#0;n#section#1;n#div#0;n#section#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="178">
+              <caret line="107" column="140" lean-forward="false" selection-start-line="107" selection-start-column="123" selection-end-line="107" selection-end-column="140" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -221,12 +112,14 @@
         <option value="$PROJECT_DIR$/Admin/pages/Profesor/profesor.html" />
         <option value="$PROJECT_DIR$/Admin/js/estudianteCTRL.js" />
         <option value="$PROJECT_DIR$/services.js" />
-        <option value="$PROJECT_DIR$/Admin/pages/Profesor/mostrarProfesor.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Admin/pages/Estudiante/crearEstudiante.html" />
         <option value="$PROJECT_DIR$/Admin/css/style.css" />
         <option value="$PROJECT_DIR$/Admin/css/estilo.css" />
+        <option value="$PROJECT_DIR$/Admin/services.js" />
         <option value="$PROJECT_DIR$/Admin/pages/Estudiante/mostarEstudiante.html" />
+        <option value="$PROJECT_DIR$/Admin/pages/Profesor/mostrarProfesor.html" />
+        <option value="$PROJECT_DIR$/Admin/js/profesorCTRL.js" />
       </list>
     </option>
   </component>
@@ -415,12 +308,12 @@
       <option name="presentableId" value="Default" />
       <updated>1524598577387</updated>
       <workItem from="1524598578668" duration="8342000" />
-      <workItem from="1524620502893" duration="12950000" />
+      <workItem from="1524620502893" duration="13697000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21292000" />
+    <option name="totallyTimeSpent" value="22039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -511,14 +404,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Admin/js/profesorCTRL.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/Profesor/profeso.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -588,48 +473,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Admin/js/estudianteCTRL.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="60" lean-forward="false" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Admin/services.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="987">
-          <caret line="47" column="18" lean-forward="true" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Admin/pages/Estudiante/crearEstudiante.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="14" column="54" lean-forward="true" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Admin/pages/Profesor/mostrarProfesor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1155">
-          <caret line="47" column="28" lean-forward="true" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
-          <folding>
-            <element signature="n#style#0;n#button#0;n#div#0;n#section#1;n#div#0;n#section#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Admin/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338268">
@@ -646,13 +489,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/js/estudianteCTRL.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="135" column="23" lean-forward="true" selection-start-line="135" selection-start-column="23" selection-end-line="135" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Admin/pages/Estudiante/mostarEstudiante.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="134" column="149" lean-forward="false" selection-start-line="134" selection-start-column="149" selection-end-line="134" selection-end-column="149" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#section#1;n#div#0;n#section#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="315">
+          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/pages/Estudiante/crearEstudiante.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-387">
+          <caret line="14" column="54" lean-forward="true" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="47" column="18" lean-forward="true" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/js/profesorCTRL.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/pages/Profesor/mostrarProfesor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="107" column="140" lean-forward="false" selection-start-line="107" selection-start-column="123" selection-end-line="107" selection-end-column="140" />
+          <folding />
         </state>
       </provider>
     </entry>
