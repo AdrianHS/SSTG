@@ -1,7 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce6a3537-0014-472a-9986-c9e4608e8f07" name="Default" comment="" />
+    <list default="true" id="ce6a3537-0014-472a-9986-c9e4608e8f07" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Admin/css/estilo.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Admin/js/estudianteCTRL.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Admin/js/profesorCTRL.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Admin/pages/Estudiante/mostarEstudiante.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Admin/pages/Profesor/crearProfesor.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Admin/pages/Profesor/mostrarProfesor.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Admin/services.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/css/maps/style.css.map" afterPath="$PROJECT_DIR$/Admin/css/maps/style.css.map" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/Admin/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/fonts/material-icons/MaterialIcons-Regular.eot" afterPath="$PROJECT_DIR$/Admin/fonts/material-icons/MaterialIcons-Regular.eot" />
+      <change beforePath="$PROJECT_DIR$/fonts/material-icons/MaterialIcons-Regular.ttf" afterPath="$PROJECT_DIR$/Admin/fonts/material-icons/MaterialIcons-Regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/material-icons/MaterialIcons-Regular.woff" afterPath="$PROJECT_DIR$/Admin/fonts/material-icons/MaterialIcons-Regular.woff" />
+      <change beforePath="$PROJECT_DIR$/fonts/material-icons/MaterialIcons-Regular.woff2" afterPath="$PROJECT_DIR$/Admin/fonts/material-icons/MaterialIcons-Regular.woff2" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.eot" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Bold.eot" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.svg" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Bold.svg" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.ttf" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Bold.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.woff" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Bold.woff" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.woff2" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Bold.woff2" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.eot" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Light.eot" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.svg" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Light.svg" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.ttf" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Light.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.woff" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Light.woff" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.woff2" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Light.woff2" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.eot" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Medium.eot" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.svg" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Medium.svg" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.ttf" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Medium.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.woff" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Medium.woff" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.woff2" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Medium.woff2" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.eot" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Regular.eot" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.svg" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Regular.svg" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.ttf" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.woff" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Regular.woff" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.woff2" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Regular.woff2" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.eot" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Thin.eot" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.svg" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Thin.svg" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.ttf" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Thin.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.woff" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Thin.woff" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.woff2" afterPath="$PROJECT_DIR$/Admin/fonts/roboto/Roboto-Thin.woff2" />
+      <change beforePath="$PROJECT_DIR$/images/cover/1-1.jpg" afterPath="$PROJECT_DIR$/Admin/images/cover/1-1.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/cover/16-9.jpg" afterPath="$PROJECT_DIR$/Admin/images/cover/16-9.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/cover/Login_bg.jpg" afterPath="$PROJECT_DIR$/Admin/images/cover/Login_bg.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/cover/Login_bg2.jpg" afterPath="$PROJECT_DIR$/Admin/images/cover/Login_bg2.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/cover/Material Admin.html" afterPath="$PROJECT_DIR$/Admin/images/cover/Material Admin.html" />
+      <change beforePath="$PROJECT_DIR$/images/cover/bg_profile.jpg" afterPath="$PROJECT_DIR$/Admin/images/cover/bg_profile.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/faces/face1.jpg" afterPath="$PROJECT_DIR$/Admin/images/faces/face1.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/faces/face10.jpg" afterPath="$PROJECT_DIR$/Admin/images/faces/face10.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/faces/face11.jpg" afterPath="$PROJECT_DIR$/Admin/images/faces/face11.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/faces/face2.jpg" afterPath="$PROJECT_DIR$/Admin/images/faces/face2.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/faces/face3.jpg" afterPath="$PROJECT_DIR$/Admin/images/faces/face3.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/faces/face4.jpg" afterPath="$PROJECT_DIR$/Admin/images/faces/face4.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/faces/face5.jpg" afterPath="$PROJECT_DIR$/Admin/images/faces/face5.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/faces/face6.jpg" afterPath="$PROJECT_DIR$/Admin/images/faces/face6.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/faces/face7.jpg" afterPath="$PROJECT_DIR$/Admin/images/faces/face7.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/faces/face8.jpg" afterPath="$PROJECT_DIR$/Admin/images/faces/face8.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/faces/face9.jpg" afterPath="$PROJECT_DIR$/Admin/images/faces/face9.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/logo.svg" afterPath="$PROJECT_DIR$/Admin/images/logo.svg" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/js/chart.js" afterPath="$PROJECT_DIR$/Admin/js/chart.js" />
+      <change beforePath="$PROJECT_DIR$/js/dashboard.js" afterPath="$PROJECT_DIR$/Admin/js/dashboard.js" />
+      <change beforePath="$PROJECT_DIR$/js/material.js" afterPath="$PROJECT_DIR$/Admin/js/material.js" />
+      <change beforePath="$PROJECT_DIR$/js/misc.js" afterPath="$PROJECT_DIR$/Admin/js/misc.js" />
+      <change beforePath="$PROJECT_DIR$/pages/Estudiante/estudiante.html" afterPath="$PROJECT_DIR$/Admin/pages/Estudiante/crearEstudiante.html" />
+      <change beforePath="$PROJECT_DIR$/pages/charts/chartjs.html" afterPath="$PROJECT_DIR$/Admin/pages/charts/chartjs.html" />
+      <change beforePath="$PROJECT_DIR$/pages/forms/basic-forms.html" afterPath="$PROJECT_DIR$/Admin/pages/forms/basic-forms.html" />
+      <change beforePath="$PROJECT_DIR$/pages/samples/403.html" afterPath="$PROJECT_DIR$/Admin/pages/samples/403.html" />
+      <change beforePath="$PROJECT_DIR$/pages/samples/404.html" afterPath="$PROJECT_DIR$/Admin/pages/samples/404.html" />
+      <change beforePath="$PROJECT_DIR$/pages/samples/500.html" afterPath="$PROJECT_DIR$/Admin/pages/samples/500.html" />
+      <change beforePath="$PROJECT_DIR$/pages/samples/505.html" afterPath="$PROJECT_DIR$/Admin/pages/samples/505.html" />
+      <change beforePath="$PROJECT_DIR$/pages/samples/blank-page.html" afterPath="$PROJECT_DIR$/Admin/pages/samples/blank-page.html" />
+      <change beforePath="$PROJECT_DIR$/pages/samples/login.html" afterPath="$PROJECT_DIR$/Admin/pages/samples/login.html" />
+      <change beforePath="$PROJECT_DIR$/pages/samples/register.html" afterPath="$PROJECT_DIR$/Admin/pages/samples/register.html" />
+      <change beforePath="$PROJECT_DIR$/pages/ui-features/buttons.html" afterPath="$PROJECT_DIR$/Admin/pages/ui-features/buttons.html" />
+      <change beforePath="$PROJECT_DIR$/pages/ui-features/tables.html" afterPath="$PROJECT_DIR$/Admin/pages/ui-features/tables.html" />
+      <change beforePath="$PROJECT_DIR$/pages/ui-features/typography.html" afterPath="$PROJECT_DIR$/Admin/pages/ui-features/typography.html" />
+      <change beforePath="$PROJECT_DIR$/partials/_footer.html" afterPath="$PROJECT_DIR$/Admin/partials/_footer.html" />
+      <change beforePath="$PROJECT_DIR$/partials/_navbar.html" afterPath="$PROJECT_DIR$/Admin/partials/_navbar.html" />
+      <change beforePath="$PROJECT_DIR$/partials/_sidebar.html" afterPath="$PROJECT_DIR$/Admin/partials/_sidebar.html" />
+      <change beforePath="$PROJECT_DIR$/scss/_dashboard.scss" afterPath="$PROJECT_DIR$/Admin/scss/_dashboard.scss" />
+      <change beforePath="$PROJECT_DIR$/scss/_demo.scss" afterPath="$PROJECT_DIR$/Admin/scss/_demo.scss" />
+      <change beforePath="$PROJECT_DIR$/scss/_fonts.scss" afterPath="$PROJECT_DIR$/Admin/scss/_fonts.scss" />
+      <change beforePath="$PROJECT_DIR$/scss/_footer.scss" afterPath="$PROJECT_DIR$/Admin/scss/_footer.scss" />
+      <change beforePath="$PROJECT_DIR$/scss/_navbar.scss" afterPath="$PROJECT_DIR$/Admin/scss/_navbar.scss" />
+      <change beforePath="$PROJECT_DIR$/scss/_sidebar.scss" afterPath="$PROJECT_DIR$/Admin/scss/_sidebar.scss" />
+      <change beforePath="$PROJECT_DIR$/scss/_template.scss" afterPath="$PROJECT_DIR$/Admin/scss/_template.scss" />
+      <change beforePath="$PROJECT_DIR$/scss/_typography.scss" afterPath="$PROJECT_DIR$/Admin/scss/_typography.scss" />
+      <change beforePath="$PROJECT_DIR$/scss/_utilities.scss" afterPath="$PROJECT_DIR$/Admin/scss/_utilities.scss" />
+      <change beforePath="$PROJECT_DIR$/scss/_variables.scss" afterPath="$PROJECT_DIR$/Admin/scss/_variables.scss" />
+      <change beforePath="$PROJECT_DIR$/scss/components/_buttons.scss" afterPath="$PROJECT_DIR$/Admin/scss/components/_buttons.scss" />
+      <change beforePath="$PROJECT_DIR$/scss/components/_cards.scss" afterPath="$PROJECT_DIR$/Admin/scss/components/_cards.scss" />
+      <change beforePath="$PROJECT_DIR$/scss/components/_checkbox.scss" afterPath="$PROJECT_DIR$/Admin/scss/components/_checkbox.scss" />
+      <change beforePath="$PROJECT_DIR$/scss/components/_dropdown.scss" afterPath="$PROJECT_DIR$/Admin/scss/components/_dropdown.scss" />
+      <change beforePath="$PROJECT_DIR$/scss/components/_radio.scss" afterPath="$PROJECT_DIR$/Admin/scss/components/_radio.scss" />
+      <change beforePath="$PROJECT_DIR$/scss/components/_table.scss" afterPath="$PROJECT_DIR$/Admin/scss/components/_table.scss" />
+      <change beforePath="$PROJECT_DIR$/scss/components/plugin-overides/_chartjs.scss" afterPath="$PROJECT_DIR$/Admin/scss/components/plugin-overides/_chartjs.scss" />
+      <change beforePath="$PROJECT_DIR$/scss/sample-screens/_auth.scss" afterPath="$PROJECT_DIR$/Admin/scss/sample-screens/_auth.scss" />
+      <change beforePath="$PROJECT_DIR$/scss/sample-screens/_error-page.scss" afterPath="$PROJECT_DIR$/Admin/scss/sample-screens/_error-page.scss" />
+      <change beforePath="$PROJECT_DIR$/scss/style.scss" afterPath="$PROJECT_DIR$/Admin/scss/style.scss" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,43 +113,77 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="chartjs.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../SSTG/pages/charts/chartjs.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="899">
-              <caret line="62" column="20" lean-forward="false" selection-start-line="49" selection-start-column="14" selection-end-line="62" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="basic-forms.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../SSTG/pages/forms/basic-forms.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../SSTG/index.html">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="7" />
+            <state relative-caret-position="987">
+              <caret line="47" column="18" lean-forward="true" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="estudiante.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../SSTG/pages/Estudiante/estudiante.html">
+      <file leaf-file-name="crearEstudiante.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Admin/pages/Estudiante/crearEstudiante.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="111" column="39" lean-forward="false" selection-start-line="111" selection-start-column="39" selection-end-line="111" selection-end-column="39" />
+            <state relative-caret-position="231">
+              <caret line="14" column="54" lean-forward="true" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="estudianteCTRL.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Admin/js/estudianteCTRL.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="60" lean-forward="false" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mostarEstudiante.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Admin/pages/Estudiante/mostarEstudiante.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="134" column="149" lean-forward="false" selection-start-line="134" selection-start-column="149" selection-end-line="134" selection-end-column="149" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#section#1;n#div#0;n#section#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Admin/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338268">
+              <caret line="16108" column="6" lean-forward="true" selection-start-line="16108" selection-start-column="6" selection-end-line="16108" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="estilo.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Admin/css/estilo.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mostrarProfesor.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Admin/pages/Profesor/mostrarProfesor.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1155">
+              <caret line="47" column="28" lean-forward="true" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#div#0;n#section#1;n#div#0;n#section#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -59,36 +193,82 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bg-b</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/pages/forms/basic-forms.html" />
+        <option value="$PROJECT_DIR$/js/profesorCTRL.js" />
         <option value="$PROJECT_DIR$/pages/Estudiante/estudiante.html" />
+        <option value="$PROJECT_DIR$/pages/Profesor/profesor.html" />
+        <option value="$PROJECT_DIR$/pages/Estudiante/mostarEstudiante.html" />
+        <option value="$PROJECT_DIR$/js/estudianteCTRL.js" />
+        <option value="$PROJECT_DIR$/Admin/js/dashboard.js" />
+        <option value="$PROJECT_DIR$/Admin/js/chart.js" />
+        <option value="$PROJECT_DIR$/Admin/pages/charts/chartjs.html" />
+        <option value="$PROJECT_DIR$/Admin/pages/Profesor/profesor.html" />
+        <option value="$PROJECT_DIR$/Admin/js/estudianteCTRL.js" />
+        <option value="$PROJECT_DIR$/services.js" />
+        <option value="$PROJECT_DIR$/Admin/pages/Profesor/mostrarProfesor.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Admin/pages/Estudiante/crearEstudiante.html" />
+        <option value="$PROJECT_DIR$/Admin/css/style.css" />
+        <option value="$PROJECT_DIR$/Admin/css/estilo.css" />
+        <option value="$PROJECT_DIR$/Admin/pages/Estudiante/mostarEstudiante.html" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
-    <package-json value="$PROJECT_DIR$/../SSTG/package.json" />
+    <package-json value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <gulpfiles>
       <GulpfileState>
-        <gulpfile-path>$PROJECT_DIR$/../SSTG/gulpfile.js</gulpfile-path>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
       </GulpfileState>
     </gulpfiles>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-402" />
-    <option name="y" value="-21" />
-    <option name="width" value="1934" />
-    <option name="height" value="1036" />
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>JSDuplicatedDeclaration</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -105,65 +285,85 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Material-Admin-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSTG" type="b2602c69:ProjectViewProjectNode" />
               <item name="SSTG" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Material-Admin-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSTG" type="b2602c69:ProjectViewProjectNode" />
               <item name="SSTG" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Material-Admin-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSTG" type="b2602c69:ProjectViewProjectNode" />
               <item name="SSTG" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSTG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSTG" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Material-Admin-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSTG" type="b2602c69:ProjectViewProjectNode" />
               <item name="SSTG" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Material-Admin-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSTG" type="b2602c69:ProjectViewProjectNode" />
               <item name="SSTG" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
               <item name="charts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Material-Admin-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSTG" type="b2602c69:ProjectViewProjectNode" />
               <item name="SSTG" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
               <item name="Estudiante" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Material-Admin-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSTG" type="b2602c69:ProjectViewProjectNode" />
               <item name="SSTG" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
               <item name="forms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Material-Admin-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSTG" type="b2602c69:ProjectViewProjectNode" />
               <item name="SSTG" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="samples" type="462c0819:PsiDirectoryNode" />
+              <item name="Profesor" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Agronomia" />
+    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/Proyecto-Trasportes" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ADRIAN\Desktop\Web\SSTG\Admin" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ADRIAN\Desktop\Web\SSTG" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -177,8 +377,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Material-Admin-master/index.html" />
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SSTG/index.html" />
+    <configuration name="profeso.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SSTG/pages/Profesor/profeso.html" />
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -187,9 +389,15 @@
       <arguments />
       <envs />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.profeso.html" />
+    </list>
     <recent_temporary>
-      <list size="1">
+      <list size="3">
         <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.profeso.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -207,33 +415,35 @@
       <option name="presentableId" value="Default" />
       <updated>1524598577387</updated>
       <workItem from="1524598578668" duration="8342000" />
+      <workItem from="1524620502893" duration="12950000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8342000" />
+    <option name="totallyTimeSpent" value="21292000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19479166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -248,52 +458,23 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../SSTG/js/misc.js">
+    <entry file="file://$PROJECT_DIR$/Admin/pages/charts/chartjs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-221">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../SSTG/js/material.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-252">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../SSTG/js/dashboard.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1271">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../SSTG/pages/charts/chartjs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="899">
+        <state relative-caret-position="1302">
           <caret line="62" column="20" lean-forward="false" selection-start-line="49" selection-start-column="14" selection-end-line="62" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../SSTG/images/logo.svg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../SSTG/pages/samples/register.html">
+    <entry file="file://$PROJECT_DIR$/Admin/pages/forms/basic-forms.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-567">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="189">
+          <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../SSTG/index.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="7" />
@@ -301,19 +482,177 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../SSTG/pages/forms/basic-forms.html">
+    <entry file="file://$PROJECT_DIR$/Admin/pages/Estudiante/crearEstudiante.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="37" />
+        <state relative-caret-position="2331">
+          <caret line="111" column="39" lean-forward="false" selection-start-line="111" selection-start-column="39" selection-end-line="111" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../SSTG/pages/Estudiante/estudiante.html">
+    <entry file="file://$PROJECT_DIR$/Admin/images/logo.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/pages/samples/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="111" column="39" lean-forward="false" selection-start-line="111" selection-start-column="39" selection-end-line="111" selection-end-column="39" />
+        <state relative-caret-position="-567">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/pages/forms/basic-forms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="204" column="20" lean-forward="false" selection-start-line="204" selection-start-column="20" selection-end-line="208" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/js/profesorCTRL.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/Profesor/profeso.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/js/chart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="174" column="0" lean-forward="true" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/js/dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/js/material.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/js/misc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/images/cover/Material Admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9198">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshot.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/pages/charts/chartjs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="25" column="38" lean-forward="false" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/pages/Profesor/crearProfesor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="118" column="55" lean-forward="true" selection-start-line="118" selection-start-column="55" selection-end-line="118" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/js/estudianteCTRL.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="60" lean-forward="false" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="987">
+          <caret line="47" column="18" lean-forward="true" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/pages/Estudiante/crearEstudiante.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="14" column="54" lean-forward="true" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/pages/Profesor/mostrarProfesor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1155">
+          <caret line="47" column="28" lean-forward="true" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#div#0;n#section#1;n#div#0;n#section#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338268">
+          <caret line="16108" column="6" lean-forward="true" selection-start-line="16108" selection-start-column="6" selection-end-line="16108" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/css/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/pages/Estudiante/mostarEstudiante.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="134" column="149" lean-forward="false" selection-start-line="134" selection-start-column="149" selection-end-line="134" selection-end-column="149" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#section#1;n#div#0;n#section#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

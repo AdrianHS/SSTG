@@ -5,7 +5,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Material Admin</title>
+    <title>Agronomía</title>
     <!-- plugins:css -->
     <link rel="stylesheet" href="../../node_modules/mdi/css/materialdesignicons.min.css">
     <!-- endinject -->
@@ -23,26 +23,26 @@
     <aside class="mdc-persistent-drawer mdc-persistent-drawer--open">
         <nav class="mdc-persistent-drawer__drawer">
             <div class="mdc-persistent-drawer__toolbar-spacer">
-                <a href="../../index.html" class="brand-logo">
+                <a href="../../../index.html" class="brand-logo">
                     <img src="../../images/logo.svg" alt="logo">
                 </a>
             </div>
             <div class="mdc-list-group">
                 <nav class="mdc-list mdc-drawer-menu">
                     <div class="mdc-list-item mdc-drawer-item">
-                        <a class="mdc-drawer-link" href="../../index.html">
+                        <a class="mdc-drawer-link" href="../../../index.html">
                             <i class="material-icons mdc-list-item__start-detail mdc-drawer-item-icon" aria-hidden="true">desktop_mac</i>
                             Inicio
                         </a>
                     </div>
                     <div class="mdc-list-item mdc-drawer-item">
-                        <a class="mdc-drawer-link" href="../../index.html">
+                        <a class="mdc-drawer-link" href="../Estudiante/crearEstudiante.html">
                             <i class="material-icons mdc-list-item__start-detail mdc-drawer-item-icon" aria-hidden="true">person</i>
                             Estudiantes
                         </a>
                     </div>
                     <div class="mdc-list-item mdc-drawer-item">
-                        <a class="mdc-drawer-link" href="../../index.html">
+                        <a class="mdc-drawer-link" href="../../pages/Profesor/crearProfesor.html">
                             <i class="material-icons mdc-list-item__start-detail mdc-drawer-item-icon" aria-hidden="true">person</i>
                             Profesores
                         </a>
@@ -83,7 +83,6 @@
     <header class="mdc-toolbar mdc-elevation--z4 mdc-toolbar--fixed">
         <div class="mdc-toolbar__row">
             <section class="mdc-toolbar__section mdc-toolbar__section--align-start">
-                <a href="#" class="menu-toggler material-icons mdc-toolbar__menu-icon">menu</a>
             </section>
         </div>
     </header>
@@ -99,17 +98,32 @@
                                 <div class="mdc-card">
                                     <section class="mdc-card__primary">
                                         <div class="card__avatar"><img src="../../images/faces/face1.jpg" alt=""></div>
-                                        <h1 class="mdc-card__title mdc-card__title--large">Crear Estudiantes</h1>
+                                        <h1 class="mdc-card__title mdc-card__title--large">Crear Profesores</h1>
                                     </section>
                                     <section class="mdc-card__supporting-text">
                                         <div class="mdc-layout-grid__inner">
-
+                                            <div class="mdc-layout-grid__cell mdc-layout-grid__cell--span-6-desktop">
+                                                <section id="box-demo-wrapper">
+                                                    <div id="box-js-select" class="mdc-text-field--textarea">
+                                                        <select class="mdc-text-field--box mdc-text-field--with-leading-icon w-100" id="select-box">
+                                                            <option value="" disabled="" selected="">Seleccione el tipo de profesor</option>
+                                                            <option value="Encargado">
+                                                                Encargado
+                                                            </option>
+                                                            <option value="Jurado‎">
+                                                                Jurado‎
+                                                            </option>
+                                                        </select>
+                                                        <div class="mdc-line-ripple"></div>
+                                                    </div>
+                                                </section>
+                                            </div>
                                             <div class="mdc-layout-grid__cell mdc-layout-grid__cell--span-6-desktop">
                                                 <div class="template-demo">
                                                     <div>
                                                         <div class="mdc-text-field mdc-text-field--box mdc-text-field--with-leading-icon w-100">
                                                             <i class="material-icons mdc-text-field__icon" tabindex="0">event</i>
-                                                            <input type="text" class="mdc-text-field__input" placeholder="Ingrese el carnet">
+                                                            <input type="text" class="mdc-text-field__input" placeholder="Ingrese el Cédula">
                                                             <div class="mdc-text-field__bottom-line"></div>
                                                         </div>
                                                     </div>
@@ -143,17 +157,6 @@
                                                         <div class="mdc-text-field mdc-text-field--box mdc-text-field--with-leading-icon w-100">
                                                             <i class="material-icons mdc-text-field__icon" tabindex="0">assignment_ind</i>
                                                             <input type="text" class="mdc-text-field__input" placeholder="Ingrese el apellidos">
-                                                            <div class="mdc-text-field__bottom-line"></div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="mdc-layout-grid__cell mdc-layout-grid__cell--span-6-desktop">
-                                                <div class="template-demo">
-                                                    <div>
-                                                        <div class="mdc-text-field mdc-text-field--box mdc-text-field--with-leading-icon w-100">
-                                                            <i class="material-icons mdc-text-field__icon" tabindex="0">class</i>
-                                                            <input type="text" class="mdc-text-field__input" placeholder="Ingrese el carrera">
                                                             <div class="mdc-text-field__bottom-line"></div>
                                                         </div>
                                                     </div>

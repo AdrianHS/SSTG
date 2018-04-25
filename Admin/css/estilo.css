@@ -1,0 +1,12 @@
+.letrasBtn{
+    color: white;
+}
+.agregarbtn{
+    position: fixed; bottom:22%; right: 2%
+}
+.editarBtn{
+    position: fixed; bottom:12%; right: 2%
+}
+.eliminarBtn{
+    position: fixed; bottom:2%; right: 2%
+}

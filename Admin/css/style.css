@@ -17410,6 +17410,9 @@ address p {
 .bg-red {
   background: #ec3432; }
 
+.bg-green{
+  background: #007f00;
+}
 .text-red {
   color: #ec3432; }
 
