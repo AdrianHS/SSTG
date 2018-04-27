@@ -5,5 +5,8 @@ angular.module('adminModule')
             console.log("res ", res);
             $scope.mostrarEstudiante=res
         });
-
+        $scope.guardarEstudiante=function() {
+                $scope.newDriver.identification = $scope.getTodosEstudiantes.toString();
+                RecursoEstudiante.setNuevoEstudiante($scope.getTodosEstudiantes);
+        }
     });

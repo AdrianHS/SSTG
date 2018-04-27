@@ -23,14 +23,14 @@
     <aside class="mdc-persistent-drawer mdc-persistent-drawer--open">
         <nav class="mdc-persistent-drawer__drawer">
             <div class="mdc-persistent-drawer__toolbar-spacer">
-                <a href="../../../index.html" class="brand-logo">
+                <a href="../Dashboard/dashboard.html" class="brand-logo">
                     <img src="../../images/logo.svg" alt="logo">
                 </a>
             </div>
             <div class="mdc-list-group">
                 <nav class="mdc-list mdc-drawer-menu">
                     <div class="mdc-list-item mdc-drawer-item">
-                        <a class="mdc-drawer-link" href="../../../index.html">
+                        <a class="mdc-drawer-link" href="../Dashboard/dashboard.html">
                             <i class="material-icons mdc-list-item__start-detail mdc-drawer-item-icon" aria-hidden="true">desktop_mac</i>
                             Inicio
                         </a>
@@ -62,12 +62,12 @@
                         <div class="mdc-expansion-panel" id="sample-page-submenu">
                             <nav class="mdc-list mdc-drawer-submenu">
                                 <div class="mdc-list-item mdc-drawer-item">
-                                    <a class="mdc-drawer-link" href="../../pages/samples/login.html">
+                                    <a class="mdc-drawer-link" href="../../../login.html">
                                         Login
                                     </a>
                                 </div>
                                 <div class="mdc-list-item mdc-drawer-item">
-                                    <a class="mdc-drawer-link" href="../../pages/samples/register.html">
+                                    <a class="mdc-drawer-link" href="../../../register.html">
                                         Register
                                     </a>
                                 </div>
@@ -100,8 +100,8 @@
                                         <div class="card__avatar"><img src="../../images/faces/face1.jpg" alt=""></div>
                                         <h1 class="mdc-card__title mdc-card__title--large">Crear Estudiantes</h1>
                                     </section>
-                                    <section class="mdc-card__supporting-text">
-                                        <div class="mdc-layout-grid__inner">
+                                    <section class="mdc-card__supporting-text" >
+                                        <form class="mdc-layout-grid__inner" ng-submit="guardarEstudiante()">
 
                                             <div class="mdc-layout-grid__cell mdc-layout-grid__cell--span-6-desktop">
                                                 <div class="template-demo">
@@ -171,7 +171,7 @@
                                             </div>
 
 
-                                        </div>
+                                        </form>
                                         <button type="submit" class="mdc-button mdc-button--unelevated big-round-corner-button mdc-ripple-upgraded" style="--mdc-ripple-fg-size:92.76px; --mdc-ripple-fg-scale:1.81906; --mdc-ripple-fg-translate-start:43.22px, -18.28px; --mdc-ripple-fg-translate-end:30.92px, -28.38px;">
                                             Registrar
                                         </button>

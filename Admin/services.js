@@ -12,8 +12,8 @@ angular.module('adminModule')
  del controlador
 
  */
+
     .factory('RecursoEstudiante', function ($http) {
-        var authToken = localStorage.getItem('session.token');
         var factory = {
             getEstudianteInfo: function (carID, callback) {
                 $http({
@@ -96,7 +96,6 @@ angular.module('adminModule')
         return factory;
     })
     .factory('RecursoProfesor', function ($http) {
-        var authToken = localStorage.getItem('session.token');
         var factory = {
             getProfesorInfo: function (carID, callback) {
                 $http({

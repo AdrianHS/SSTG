@@ -5,5 +5,9 @@ angular.module('adminModule')
             console.log("res ", res);
             $scope.mostrarProfesores=res
         });
+        $scope.guardarProfesor=function() {
+            $scope.getTodosProfesores = $scope.getTodosEstudiantes.toString();
+            RecursoEstudiante.setNuevoProfesor($scope.getTodosEstudiantes);
+        }
 
     });
