@@ -9,7 +9,7 @@ export class ProfesoresService {
   constructor(private http: HttpClient) { }
 
 
-  api: string = "http://192.168.1.83:3000/"
+  api: string = "http://172.24.176.145:3000/"
 
   consultarProfesores() {
     return this.http.get(this.api.concat('profesores'), { responseType: 'json' })

@@ -4,7 +4,7 @@ import { Observable } from 'rxjs/Observable';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 @Injectable()
 export class EstudiantesService {
-  api: string = 'http://192.168.1.83:3000/';
+  api: string = 'http://172.24.176.145:3000/';
   constructor(
     private http: HttpClient) { }
 

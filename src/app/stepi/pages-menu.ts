@@ -4,7 +4,7 @@ export const MENU_ITEMS: NbMenuItem[] = [
   {
     title: 'Dashboard',
     icon: 'nb-home',
-    link: '/sstg/dashboard',
+    link: '/stepi/dashboard',
     home: true,
   },
   // {

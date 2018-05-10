@@ -12,42 +12,12 @@ menu-submenu-active-border-color:#419cdb, color-fg-highlight:#419cdb, //color-su
 //route-tabs-selected:#419cdb,
 context-menu-active-bg:#0062a1, popover-border:#054372, //smart-table-paging-bg-active:#419cdb,
 //header
-header-bg:#0062a1, header-fg:#ffffff, //footer
+header-bg:#12024e, header-fg:#ffffff, //footer
 footer-fg: #000000, //Buttons
-btn-primary-bg:#428bca, //inputs
-form-control-selected-border-color:#419cdb, //Palette colors from CCSS
+btn-primary-bg:#12024e, //Palette colors from CCSS
 a:#054372, b:#0062a1, c:#428bca, d:#b3d4fc, ), default, default);
 $nb-themes: nb-register-theme(( // app wise variables for each theme
 sidebar-header-gap: 2rem, sidebar-header-height: initial, layout-content-width: 1400px,
 /*Change color in the theme*/
 
-$nb-themes: nb-register-theme((
- // app wise variables for each theme
-  sidebar-header-gap: 2rem,
-  sidebar-header-height: initial,
-  layout-content-width: 1400px,
-  font-main: Roboto,
-  font-secondary: Exo,
-  //Changes in theme
-  menu-submenu-active-border-color:#419cdb,
-  color-fg-highlight:#419cdb,
-  //color-success:#419cdb,
-  //card-header-success-bg:#419cdb,
-  //tabs-selected:#419cdb,
-  //route-tabs-selected:#419cdb,
-  context-menu-active-bg:#0062a1,
-  popover-border:#054372,
-  //smart-table-paging-bg-active:#419cdb,
-  //header
-  header-bg:#12024e,
-  header-fg:#ffffff,
-  //footer
-  footer-fg: #000000,
-  //Buttons
-  btn-primary-bg:#12024e,
-  //Palette colors from CCSS
-  a:#054372,
-  b:#0062a1,
-  c:#428bca,
-  d:#b3d4fc,
-), default, default);
+font-main: Roboto, font-secondary: Exo, ), cosmic, cosmic);
