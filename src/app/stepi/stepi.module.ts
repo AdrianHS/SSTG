@@ -1,23 +1,22 @@
 import { NgModule } from '@angular/core';
 
-import { SSTGComponent} from './sstg.component';
+import { STEPIComponent } from './stepi.component';
 import { DashboardModule } from './dashboard/dashboard.module';
-import {SSTGRoutingModule} from './sstg-routing.module';
+import { STEPIRoutingModule } from './stepi-routing.module';
 import { ThemeModule } from '../@theme/theme.module';
-
-const SSTG_COMPONENTS = [
-    SSTGComponent,
+const STEPI_COMPONENTS = [
+  STEPIComponent,
 ];
 
 @NgModule({
   imports: [
-    SSTGRoutingModule,
+    STEPIRoutingModule,
     ThemeModule,
     DashboardModule,
   ],
   declarations: [
-    ...SSTG_COMPONENTS,
+    ...STEPI_COMPONENTS,
   ],
 })
-export class SSTGModule {
+export class STEPIModule {
 }
