@@ -10,7 +10,7 @@ import {
 } from '@nebular/auth';
 
 const routes: Routes = [
-  { path: 'stepi', loadChildren: 'app/stepi/stepi.module#STEPIModule' },
+  { path: 'sstg', loadChildren: 'app/sstg/sstg.module#SSTGModule' },
   {
     path: 'auth',
     component: NbAuthComponent,
@@ -41,8 +41,8 @@ const routes: Routes = [
       },
     ],
   },
-  { path: '', redirectTo: 'stepi', pathMatch: 'full' },
-  { path: '**', redirectTo: 'stepi' },
+  { path: '', redirectTo: 'sstg', pathMatch: 'full' },
+  { path: '**', redirectTo: 'sstg' },
 ];
 
 const config: ExtraOptions = {

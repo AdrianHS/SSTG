@@ -11,7 +11,7 @@ import { MENU_ITEMS } from './pages-menu';
     </ngx-sample-layout>
   `,
 })
-export class STEPIComponent {
+export class SSTGComponent {
 
   menu = MENU_ITEMS;
 }
