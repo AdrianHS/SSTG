@@ -25,6 +25,10 @@ const routes: Routes = [{
       loadChildren: './estudiantes/estudiantes.module#EstudiantesModule',
     },
     {
+      path: 'profesores',
+      loadChildren: './profesores/profesores.module#ProfesoresModule',
+    },
+    {
       path: '',
       redirectTo: 'dashboard',
       pathMatch: 'full',
