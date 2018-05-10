@@ -4,7 +4,8 @@ import { Component } from '@angular/core';
   selector: 'ngx-footer',
   styleUrls: ['./footer.component.scss'],
   template: `
-    <span class="created-by">Creado por estudiantes del Instituto Tecnologico de Costa Rica Sede San Carlos ©2018</span>
+    <span class="created-by">Creado por estudiantes del 
+        <a href="https://www.tec.ac.cr/" style="color:#12024e">Tecnológico de Costa Rica</a>, Sede San Carlos ©2018</span>
   `,
 })
 export class FooterComponent {

@@ -8,8 +8,8 @@ import { EstudiantesComponent } from './estudiantes.component';
   imports: [
     CommonModule,
     ThemeModule,
-    EstudiantesRoutingModule
+    EstudiantesRoutingModule,
   ],
-  declarations: [EstudiantesComponent, ConsultarComponent]
+  declarations: [EstudiantesComponent, ConsultarComponent],
 })
 export class EstudiantesModule { }

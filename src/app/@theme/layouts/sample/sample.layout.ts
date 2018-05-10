@@ -63,37 +63,37 @@ export class SampleLayoutComponent  implements OnDestroy {
     {
       title: 'Buttons',
       icon: 'ion ion-android-radio-button-off',
-      link: '/stepi/ui-features/buttons',
+      link: '/sstg/ui-features/buttons',
     },
     {
       title: 'Grid',
       icon: 'ion ion-android-radio-button-off',
-      link: '/stepi/ui-features/grid',
+      link: '/sstg/ui-features/grid',
     },
     {
       title: 'Icons',
       icon: 'ion ion-android-radio-button-off',
-      link: '/stepi/ui-features/icons',
+      link: '/sstg/ui-features/icons',
     },
     {
       title: 'Modals',
       icon: 'ion ion-android-radio-button-off',
-      link: '/stepi/ui-features/modals',
+      link: '/sstg/ui-features/modals',
     },
     {
       title: 'Typography',
       icon: 'ion ion-android-radio-button-off',
-      link: '/stepi/ui-features/typography',
+      link: '/sstg/ui-features/typography',
     },
     {
       title: 'Animated Searches',
       icon: 'ion ion-android-radio-button-off',
-      link: '/stepi/ui-features/search-fields',
+      link: '/sstg/ui-features/search-fields',
     },
     {
       title: 'Tabs',
       icon: 'ion ion-android-radio-button-off',
-      link: '/stepi/ui-features/tabs',
+      link: '/sstg/ui-features/tabs',
     },
   ];
   layout: any = {};

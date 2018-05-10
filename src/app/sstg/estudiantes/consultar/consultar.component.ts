@@ -1,9 +1,11 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'consultar',
+  selector: 'ngx-consultar',
   templateUrl: './consultar.component.html',
-  styleUrls: ['./consultar.component.scss']
+  styleUrls: [
+      './consultar.component.scss',
+  ],
 })
 export class ConsultarComponent implements OnInit {
 

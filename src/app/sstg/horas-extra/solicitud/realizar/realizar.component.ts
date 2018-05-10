@@ -1,9 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'realizar',
+  selector: 'ngx-realizar',
   templateUrl: './realizar.component.html',
-  styleUrls: ['./realizar.component.scss']
+  styleUrls: ['./realizar.component.scss'],
 })
 export class RealizarComponent implements OnInit {
 
