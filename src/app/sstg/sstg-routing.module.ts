@@ -21,6 +21,10 @@ const routes: Routes = [{
       loadChildren: './profesores/profesores.module#ProfesoresModule',
     },
     {
+      path: 'asignacion',
+      loadChildren: './asignacion/asignacion.module#AsignacionModule',
+    },
+    {
       path: '',
       redirectTo: 'dashboard',
       pathMatch: 'full',

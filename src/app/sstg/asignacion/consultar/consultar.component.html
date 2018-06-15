@@ -1,0 +1,79 @@
+<div class="row">
+  <div class="col-12 col-md-12">
+    <nb-card>
+      <nb-card-header>
+        <div class="row">
+          <div class="col">
+            <h2>Asignación de Tutores/Jurados</h2>
+            <button class="float-right btn btn-success" (click)="guardarDatos()">
+              <i class="fa fa-save fa-lg"></i>
+            </button>
+          </div>
+        </div>
+      </nb-card-header>
+
+      <nb-card-body>
+        <div class="row">
+          <div class="col">
+            <h5>Tutor:</h5>
+            <select class='form-control tutor-field' required>
+              <option *ngFor="let tutor of tutores" value={{tutor}}>
+                {{tutor}}
+              </option>
+            </select>
+            <br>
+            <h5 class="first-jury-title">Jurado 1:</h5>
+            <select class='form-control first-jury-field' required>
+              <option *ngFor="let jurado of jurados" value={{jurado}}>
+                {{jurado}}
+              </option>
+            </select>
+            <br>
+            <h5 class="second-jury-title">Jurado 2:</h5>
+            <select class='form-control second-jury-field' required>
+              <option *ngFor="let jurado of jurados" value={{jurado}}>
+                {{jurado}}
+              </option>
+            </select>
+            <br>
+            <h5 class="third-jury-title">Jurado 3:</h5>
+            <select class='form-control first-jury-field' required>
+              <option *ngFor="let jurado of jurados" value={{jurado}}>
+                {{jurado}}
+              </option>
+            </select>
+          </div>
+
+          <div class="col">
+            <h5>Estudiante:</h5>
+            <select class='form-control student-field' required>
+              <option *ngFor="let estudiante of estudiantes" value={{estudiante}}>
+                {{estudiante}}
+              </option>
+            </select>
+            <br>
+            <label for="tesis-name">
+              <h5>Tesis:</h5>
+            </label>
+            <input type="text" class="form-control tesis-field" placeholder="Nombre de la tesis" [(ngModel)]="tesisName" value={{estudiante.tesis}}
+              name="tesis-name" disabled>
+            <br>
+            <h5>Enfoque:</h5>
+            <select class='form-control focus-field' required>
+              <option *ngFor="let enfoque of enfoques" value={{enfoque}}>
+                {{enfoque}}
+              </option>
+            </select>
+            <br>
+            <label for="duration">
+              <h5>Duración estimada:</h5>
+            </label>
+            <input type="text" class="form-control duration-field" placeholder="6 meses" [(ngModel)]="duration" name="duration">
+          </div>
+        </div>
+
+      </nb-card-body>
+
+    </nb-card>
+  </div>
+</div>

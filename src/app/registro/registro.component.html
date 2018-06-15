@@ -1,0 +1,37 @@
+<div class="col-md-12 mx-auto">
+  <form (ngSubmit)="onSubmit()" #form="ngForm">
+    <p class="h4 text-center mb-4">Registro</p>
+
+    <!-- Material input name -->
+    <div class="md-form">
+      <label for="fullname">Nombre Completo</label>
+      <input type="text" id="fullname" class="form-control" placeholder="John Doe Smith" [(ngModel)]="user.name" name="fullname">
+    </div>
+
+    <!-- Material input email -->
+    <div class="md-form mt-2">
+      <label for="email">Correo electrónico</label>
+      <input type="email" id="email" class="form-control" placeholder="john.doe@example.com" [(ngModel)]="user.email" name="email">
+    </div>
+
+    <!-- Material input password -->
+    <div class="md-form mt-2">
+      <label for="password">Contraseña</label>
+      <input type="password" id="password" class="form-control" placeholder="**********" [(ngModel)]="user.pass" name="password">
+    </div>
+
+    <div class="text-center mt-4">
+      <input name="profesor" type="radio" [value]="profesor" [(ngModel)]="user.rol" checked> Profesor
+      <input name="estudiante" type="radio" [value]="estudiante" [(ngModel)]="user.rol"> Estudiante
+      <input name="tutor" type="radio" [value]="tutor" [(ngModel)]="user.rol"> Tutor
+      <input name="jurado" type="radio" [value]="jurado" [(ngModel)]="user.rol"> Jurado
+    </div>
+
+    <div class="text-center mt-4">
+      <button class="btn btn-primary btn-enviar" type="submit">
+        <i class="fa fa-paper-plane"></i> Enviar
+      </button>
+
+    </div>
+  </form>
+</div>
